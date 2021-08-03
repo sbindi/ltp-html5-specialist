@@ -1,2 +1,2 @@
-# ltp-html5-specialist
+# Sébastien HTML5 Specialist Repository
  
